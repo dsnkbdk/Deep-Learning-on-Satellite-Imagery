@@ -18,7 +18,7 @@ Satellite imagery services provide detailed pasture data to farmers, reducing th
 
 ## Methodology
 ### Data Collection
-- **Satellite Imagery**: Sourced from Planet, containing 13 spectral bands, with four bands (Blue, Green, Red, Nir) used in this project.
+- **Satellite Imagery**: Sourced from 'Planet', containing 13 spectral bands, with four bands (Blue, Green, Red, Nir) used in this project.
 - **LiDAR Imagery**: Provided by Land Information New Zealand (LINZ), containing high-accuracy elevation data used to calculate slope.
 
 ### Data Preprocessing
